@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Simple Tic Tac Toe</string>
+    <string name="player1score">Your Score: %d</string>
+    <string name="devicescore">My Score: %d</string>
+    <string name="Level">Level: %d</string>
+    <string name="reset">Reset Game</string>
+</resources>

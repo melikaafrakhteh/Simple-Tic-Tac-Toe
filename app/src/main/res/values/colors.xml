@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#E6FCFB79</color>
+    <color name="colorPrimaryDark">#FFC87C</color>
+    <color name="colorAccent">#F76262</color>
+
+    <color name="colorsecondfont">#B2846C</color>
+    <color name="colormainfont">#301212</color>
+    <color name="colorlightfont">#fff5ea</color>
+
+    <color name="player1">#f26754</color>
+    <color name="player2">#ffbd3a</color>
+
+</resources>
